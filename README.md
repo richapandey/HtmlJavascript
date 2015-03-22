@@ -1,2 +1,2 @@
-# HtmlJavascript
-HtmlJavascript Test programs
+ # HtmlJavascript
+HtmlJavascript Test programs - my first git program
